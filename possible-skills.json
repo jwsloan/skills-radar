@@ -1,0 +1,77 @@
+[
+    {
+        "title": "HTML",
+        "tags": ["Front-end development"],
+        "description":"HTML (Hypertext Markup Language) is the standard markup language used to create web pages."
+    },
+    {
+        "title": "CSS",
+        "tags": ["Front-end development"],
+        "description":"CSS (Cascading Style Sheets) is a style sheet language used for describing the presentation of a document written in a markup language."
+    },
+    {
+        "title": "JavaScript",
+        "tags": ["Front-end development"],
+        "description":"JavaScript is a programming language that is commonly used to create interactive effects within web browsers."
+    },
+    {
+        "title": "React",
+        "tags": ["Front-end development","JavaScript"],
+        "description":"React is a JavaScript library for building user interfaces."
+    },
+    {
+        "title": "Node.js",
+        "tags": ["Back-end development","JavaScript"],
+        "description":"Node.js is an open-source, cross-platform, back-end JavaScript runtime environment."
+    },
+    {
+        "title": "PHP",
+        "tags": ["Back-end development"],
+        "description":"PHP is a server-side scripting language designed for web development."
+    },
+    {
+        "title": "Python",
+        "tags": ["Back-end development","Python"],
+        "description":"Python is an interpreted, high-level, general-purpose programming language."
+    },
+    {
+        "title": "Ruby",
+        "tags": ["Back-end development","Ruby"],
+        "description":"Ruby is an open-source, interpreted, high-level, general-purpose programming language."
+    },
+    {
+        "title": "Java",
+        "tags": ["Back-end development"],
+        "description":"Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible."
+    },
+    {
+        "title": "Verbal communication",
+        "tags": ["Communication skills"],
+        "description":"Verbal communication refers to the use of spoken language to communicate a message."
+    },
+    {
+        "title": "Written communication",
+        "tags": ["Communication skills"],
+        "description":"Written communication refers to the use of written language, symbols, and numbers to communicate a message."
+    },
+    {
+        "title": "Collaboration",
+        "tags": ["Teamwork"],
+        "description":"Collaboration refers to the process of working together with others to achieve a common goal."
+    },
+    {
+        "title": "Problem solving",
+        "tags": ["Teamwork"],
+        "description":"Problem solving refers to the process of identifying and solving problems."
+    },
+    {
+        "title": "Time management",
+        "tags": ["Teamwork"],
+        "description":"Time management refers to the process of planning and organizing how to allocate time effectively and efficiently."
+    },
+    {
+        "title": "Leadership",
+        "tags": ["Teamwork"],
+        "description":"Leadership refers to the ability"
+    }
+]
